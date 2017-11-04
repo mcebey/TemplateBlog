@@ -10,22 +10,22 @@ version:          2.1.0
 
 github:           metadata
 
-repository:       username/username.github.io
+repository:       mcebey/mcebey.github.io
 userdisqus:       username
 
 # Setup
 author:
-  name:           "Nombre Apellido"
-  url:            https://twitter.com/usernameTwitter
-  twitter:        usernameTwitter
+  name:           "mcebey"
+  url:            https://twitter.com/mcebeyf
+  twitter:        mcebeyf
 
-paginate:         5
+paginate:         10
 
-title:            "Título del blog"
-tagline:          "línea descriptiva"
-description:      "lema/descripcion/breve frase."
+title:            "Jekyll blog test"
+tagline:          "testing ahother blog system"
+description:      "jeykyll searching hyde"
 locale:           es_es
 encoding:         utf-8
-url:              https://username.github.io
-baseurl:          https://username.github.io/  
+url:              https://mcebey.github.io
+baseurl:          https://mcebey.github.io/  
 google_analytics: UA-XXXXXXXXX-X
